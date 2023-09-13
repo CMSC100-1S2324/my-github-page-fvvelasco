@@ -1,0 +1,48 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 15pt;
+    text-align: left;
+    border-style: solid;
+    padding: 10px;
+}
+
+#Nav{
+    text-align: center;
+}
+
+#Footer{
+    border-style: none;
+    font-size: 13pt;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+
+.container.space-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container.center{
+    justify-content: center;
+    display: grid; 
+}
+
+.container.flex{
+    background-color: #e1f2ff;
+    display: flex;
+    border-style: solid;
+
+}
