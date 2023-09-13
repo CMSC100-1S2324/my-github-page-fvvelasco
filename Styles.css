@@ -1,5 +1,6 @@
 body {
     background-color: whitesmoke;
+    font-family: 'Roboto';
 }
 
 h1 {
@@ -15,6 +16,7 @@ p {
     text-align: left;
     border-style: solid;
     padding: 10px;
+
 }
 
 #Nav{
